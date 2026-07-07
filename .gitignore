@@ -1,0 +1,3 @@
+
+# per-session identity cache for poll.py (must never be committed)
+.session_id
